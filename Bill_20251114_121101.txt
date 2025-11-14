@@ -1,0 +1,9 @@
+******** RETAIL SHOP BILL ********
+
+Product: suger
+ID: 987653
+Qty: 3
+Amount: ₹120.0
+--------------------------
+
+Grand Total: ₹120.0
